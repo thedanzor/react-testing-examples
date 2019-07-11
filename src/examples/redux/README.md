@@ -1,0 +1,1 @@
+## Coming soon - new version of redux supports hooks, which makes it easier / better to test
