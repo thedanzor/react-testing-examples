@@ -1751,15 +1751,7 @@
     "@svgr/plugin-svgo" "^4.0.3"
     loader-utils "^1.1.0"
 
-"@testing-library/cypress@^4.0.3":
-  version "4.0.4"
-  resolved "https://registry.yarnpkg.com/@testing-library/cypress/-/cypress-4.0.4.tgz#9063d86a5aba2a3133a1ab8aee3aaf080f88374b"
-  integrity sha512-dKdz9dczm2WhLGOWjdxizsfMyQu+u2caW0Ej+gAucz26z/KF6Y5lC+7ANy5Ol0DRa5cA0sMTUtgCSY2g9ZN8AA==
-  dependencies:
-    "@babel/runtime" "^7.4.5"
-    "@testing-library/dom" "^5.0.1"
-
-"@testing-library/dom@^5.0.0", "@testing-library/dom@^5.0.1":
+"@testing-library/dom@^5.0.0":
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-5.5.0.tgz#7c5024116ca8173187b52c538648884ac6b7b2f9"
   integrity sha512-QuY/XBp9fquYXP1jklKlG0nUmFVLJXLWNYANmoFs25RDystdujLXxXSVhacVqL5oIF8ESThBzHFX1FUuV/J0kw==
@@ -8186,9 +8178,9 @@ lodash.uniq@^4.5.0:
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
 "lodash@>=3.5 <5", lodash@^4.13.1, lodash@^4.15.0, lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.4, lodash@^4.17.5, lodash@^4.3.0:
-  version "4.17.11"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
-  integrity sha512-cQKh8igo5QUhZ7lg38DYWAxMvjSAKG0A8wGSVimP07SIUEK2UO+arSRKbRZWtelMtN5V0Hkwh5ryOto/SshYIg==
+  version "4.17.23"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.23.tgz#f113b0378386103be4f6893388c73d0bde7f2c5a"
+  integrity sha512-LgVTMpQtIopCi79SJeDiP0TfWi5CNEc/L/aRdTh3yIvmZXTnheWpKjSZhnvMl8iXbC1tFg9gdHHDMLoV7CnG+w==
 
 log-symbols@^1.0.2:
   version "1.0.2"
